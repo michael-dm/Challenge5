@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	git pull;
+	printf('foreach');
 	
 }
