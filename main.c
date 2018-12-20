@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf('foreach');
+	printf("foreach");
 	
 }
