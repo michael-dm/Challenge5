@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	printf("Hello world!");
+	printf("Yo ! C'est quoi la suite ?");
 }
