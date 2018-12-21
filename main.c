@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	printf("Not an hello world!");
+	printf("Not hello world!");
 }
