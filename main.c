@@ -1,6 +1,2 @@
-#include <stdio.h>
+Salut tout le monde, une idée pour la suite ?
 
-int main(void)
-{
-	printf("Hey");
-}
